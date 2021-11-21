@@ -1,0 +1,6 @@
+1. [Web App architecture](https://www.youtube.com/watch?v=9mZmc6a0tmM)
+2. [Task queue](https://morioh.com/p/88dc6bee124b)
+3. [Bull](https://optimalbits.github.io/bull/)
+4. [Redis](https://redis.io/topics/quickstart)
+5. [AWS S3](https://dev.to/webiny/get-started-with-aws-s3-3bod)
+6. [Multer](https://docs.nestjs.com/techniques/file-upload)
